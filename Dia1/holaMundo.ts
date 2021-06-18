@@ -1,6 +1,4 @@
-let saludo = "Hola Mundo"
 
-console.log(saludo)
 
 let texto:string ="Conferencia Xbox"
 
